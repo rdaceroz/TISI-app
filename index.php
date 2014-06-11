@@ -1,3 +1,12 @@
+<html>
+    <head>
+        <link href="css.csss" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        
+    </body>
+</html>
+
 <?php
 
 /* 
@@ -7,5 +16,5 @@
  */
     echo 'hola mundo';
     echo 'hola roy y albert';
-
+    
 ?>
