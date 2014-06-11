@@ -6,5 +6,6 @@
  * and open the template in the editor.
  */
     echo 'hola mundo';
+    echo 'hola roy y albert';
 
 ?>
